@@ -1,1 +1,1 @@
-# Different--techniques-Reducing-Inference-time-of-Deep-learning-Models
+# Different Techniques To Reduce Inference Time of Deep Learning Models
