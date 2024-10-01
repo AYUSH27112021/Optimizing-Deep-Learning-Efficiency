@@ -30,7 +30,6 @@
 
 ## Implementation Details
 
-- **Framework**: [Specify the deep learning framework used, e.g., TensorFlow, PyTorch]
-- **Hardware**: [Specify the FPGA/SoC platform used, e.g., Xilinx, Intel]
-- **Optimization Tools**: [List any specific tools or libraries employed for optimization, e.g., TensorFlow Lite, ONNX]
-- **Evaluation Metrics**: [Define the metrics used to assess the optimized models, e.g., accuracy, inference time, memory usage, power consumption]
+- **Framework**: [PyTorch]
+- **Hardware**: [Intel Xenon -8480 , Nvidia A6000]
+- **Optimization Tools**: [Pytorch,ONNX]
