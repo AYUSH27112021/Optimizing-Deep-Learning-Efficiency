@@ -47,4 +47,4 @@ This approach allows the student model to maintain performance while being more 
 
 ## Working Video
 
-You can see the realtime working implementaion [here](https://drive.google.com/file/d/1-JYYpvDY6-ZpHLp98GlZ2aLhn7gaYQD5/view?usp=sharing)
+You can see the realtime working implementaion on a FPGA [here](https://drive.google.com/file/d/1-JYYpvDY6-ZpHLp98GlZ2aLhn7gaYQD5/view?usp=sharing)
