@@ -44,3 +44,7 @@ This approach allows the student model to maintain performance while being more 
 - **Framework**: [PyTorch]
 - **Hardware**: [Intel Xenon -8480 , Nvidia A6000]
 - **Optimization Tools**: [Pytorch,ONNX]
+
+## Working Video
+
+You can see the realtime working implementaion [here](https://drive.google.com/file/d/1-JYYpvDY6-ZpHLp98GlZ2aLhn7gaYQD5/view?usp=sharing)
